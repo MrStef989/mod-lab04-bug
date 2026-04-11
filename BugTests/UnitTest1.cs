@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BugPro;
-
+using System;
 namespace BugTests
 {
     [TestClass]
